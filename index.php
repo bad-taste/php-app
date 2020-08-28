@@ -23,14 +23,14 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Hello PEOPLE!!!</h1>
+        <h1>ROMKO ZDOROV!!!</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
     <section class="instructions">
-        <h2>Whoooooooo</h2>
+        <h2>SHIKORA DYNYS</h2>
         <ul>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
